@@ -18,4 +18,8 @@ const SimpleApp = StackNavigator({
   Home: { screen: HomeScreen },
 });
 
+export default HomeScreen;
+
 AppRegistry.registerComponent('TestTest', () => TestTest);
+
+react-addons-test-utils react-dom
